@@ -1,0 +1,25 @@
+{
+  "name": "educahub",
+  "version": "1.0.0",
+  "description": "Projeto de clone do Tabnews pelo brilhante Deschamps mas para a educa, ciencia e meu aprendizado!",
+  "homepage": "https://github.com/tiromero/educahub#readme",
+  "bugs": {
+    "url": "https://github.com/tiromero/educahub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiromero/educahub.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
